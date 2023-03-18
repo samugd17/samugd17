@@ -1,5 +1,7 @@
-<img align="center" src="https://github.com/samugd17/samugd17/blob/2d71eb4f335363758f9e12ec48b76cf501ee8044/img/Welcome_github.png"/>
-<br>
+<div align="center">
+<img src="https://github.com/samugd17/samugd17/blob/2d71eb4f335363758f9e12ec48b76cf501ee8044/img/Welcome_github.png" width="500px"/>
+</div>
+
 ## **🙋‍♂️ About me:**
 - 🌴 Tenerife, Spain
 - 💻 Currently studying software development
