@@ -1,0 +1,1 @@
+Contenedor dedicado a guardar la imagen de la cabecera de mi README personal
