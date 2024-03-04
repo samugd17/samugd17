@@ -7,7 +7,7 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/jordanpapaleo/web-logos/4a5664e7b278ddffa86e6b5079aafb39553d6de4/logos/javascript.svg" alt="javascript" width="40" height="40"/>
  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="50" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
