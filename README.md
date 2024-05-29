@@ -1,6 +1,6 @@
 ## **🙋‍♂️ About me:**
 - 🌴 Tenerife, Spain
-- 💻 Currently studying software development
+- 💻 Junior Backend developer
 - 🕹 Videogame lover
  
 ## **📚 Currently learning:**
