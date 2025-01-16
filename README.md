@@ -19,8 +19,5 @@
 </p>
 
 ## **📫 How to reach me:**
-<!--
-- 🐤 This is my [twitter](<https://twitter.com/adrianhrbt>)
-- -->
-- 📩 [Mail](<samugd17@gmail.com>)  
-- 💼 [Linkedin](<https://www.linkedin.com/in/samugd17/>)
+- 📩 [Mail](<samuglezdiaz@gmail.com>)  
+- 💼 [Linkedin](<https://www.linkedin.com/in/samuelgonzalezdiaz/>)
