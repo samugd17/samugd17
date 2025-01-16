@@ -19,5 +19,5 @@
 </p>
 
 ## **📫 How to reach me:**
-- 📩 [Mail](<samuglezdiaz@gmail.com>)  
-- 💼 [Linkedin](<https://www.linkedin.com/in/samuelgonzalezdiaz/>)
+- 📩 [Mail](mailto:samuglezdiaz@gmail.com)  
+- 💼 [Linkedin](https://www.linkedin.com/in/samuelgonzalezdiaz)
