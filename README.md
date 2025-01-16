@@ -20,4 +20,4 @@
 
 ## **📫 How to reach me:**
 - 📩 [Mail](mailto:samuglezdiaz@gmail.com)  
-- 💼 [Linkedin](https://www.linkedin.com/in/samuelgonzalezdiaz)
+- 💼 [Linkedin](<https://www.linkedin.com/in/samuelgonzalezdiaz/>)
